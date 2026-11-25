@@ -1,0 +1,12 @@
+Mijn Supervisie, website voor mijnsupervisie.nl
+
+Zet de hele map op de hosting (GitHub Pages of OVH). index.html is de voorpagina.
+
+Nog in te vullen
+- site-config.js: de App Store-link en de prijs (zolang die leeg zijn, staat er 'Binnenkort in de App Store').
+- assets/icon-*.png: de app-iconen (staan er al).
+- assets/screens/: nieuwe schermafbeeldingen uit de opgeschoonde app, met deze namen:
+  ms-doelen.png, ms-sessie.png, ms-evaluatie.png
+  Ontbreekt een bestand, dan wordt die afbeelding gewoon niet getoond.
+
+Support-adres: support@mijnsupervisie.nl (nog in te richten bij OVH).
